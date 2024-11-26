@@ -1,3 +1,18 @@
 [
-    
+  {
+    "id": "1",
+    "title": "First Article",
+    "text": "this is text for mock data",
+    "date": 26112024,
+    "author": "Dato Khojava",
+    "comments": [
+      {
+        "id": "c1",
+        "articleId": "1",
+        "text": "awesome",
+        "date": 26112024,
+        "author": "Dato Khojava"
+      }
+    ]
+  }
 ]
