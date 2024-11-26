@@ -14,5 +14,13 @@
         "author": "Dato Khojava"
       }
     ]
+  },
+  {
+    "id": "2",
+    "title": "Article",
+    "text": "Avada Kedavra",
+    "date": 26112024,
+    "author": "Voldemort",
+    "comments": []
   }
 ]
